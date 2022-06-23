@@ -1,5 +1,10 @@
-
 # Statistics using R
+
+![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Statistics-using-R)
+![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Statistics-using-R)
+![Github Repo License](https://img.shields.io/github/license/Onnamission/Statistics-using-R)
+![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Statistics-using-R/total)
+![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
 Performed some statistical methods using R.
 
@@ -24,6 +29,8 @@ Graphs
  In the below graph, the histogram is right-skewed, so applied transformation in x-axis.
 
  ![pop_hist](Results/pop_hist.png)
+ 
+ In the below graph, the data is normally distributed and thus forming a normal curve.
 
  ![pop_hist_trans](Results/pop_hist_trans.png)
 
