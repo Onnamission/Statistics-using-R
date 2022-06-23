@@ -1,12 +1,24 @@
 # Statistics using R
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Statistics-using-R)
 ![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Statistics-using-R)
 ![Github Repo License](https://img.shields.io/github/license/Onnamission/Statistics-using-R)
 ![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Statistics-using-R/total)
+[![Generic badge](https://img.shields.io/badge/maintained-yes-<COLOR>.svg)](https://shields.io/)
 ![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
-Performed some statistical methods using R.
+Performed some awesome statistical methods using R. The dataset used is gapminder provided through r package.
+
+## Tech Stack
+
+![Made With R](https://img.shields.io/badge/-r-165CAA?style=for-the-badge&labelColor=grey&logo=r&logoColor=white)
+
+## Download
+
+```bash
+  git clone https://github.com/Onnamission/Statistics-using-R.git
+```
 
 ## NULL hypothesis
 
