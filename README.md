@@ -139,3 +139,7 @@ Bootstrapping confidence interval types:
  - <b>Basic bootstrap</b> = Using percentile to calculate upper and lower limit of test statistic.
  - <b>Percentile bootstrap</b> = Using quantiles eg 2.5%, 5% etc. to calculate the CI. 
  - <b>Bias Corrected Accelerated (BCa)</b> = Using percentile limits with bias correction and estimate acceleration coefficient corrects the limit and find the CI. 
+ 
+ ## Authors
+
+- [@Onnamission](https://www.github.com/Onnamission)
