@@ -28,12 +28,3 @@ df1 = gapminder %>%
 anova_res = aov(data = df1, lifeExp ~ country)
 
 summary(anova_res)
-
-
-# As per the results
-# F(1, 22) = 101.3, p < 0.05
-# Therefore we can reject NULL hypothesis which means there is actually a difference in the mean of lifeExp.
-
-# 1 & 22 are Df
-# 101.3 = f-value
-# 1.07e-09 = Pr(>F)
