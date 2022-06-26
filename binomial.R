@@ -1,11 +1,5 @@
 # Binomial Distribution
 
-# It is used when there are 2 mutually exclusive outcomes.
-
-# Suppose there are 30 patients out of which may be 5 (we don't know which 5) are COVID19 positive and remaining are COVID19 negative patients.
-
-# We need to find probability of total number of COVID19 negative patients.
-
 library(tidyverse)
 
 
