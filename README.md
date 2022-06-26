@@ -162,7 +162,7 @@ In this case, suppose there are 30 patients out of which may be 5 (we don't know
 
 We need to find probability of COVID19 negative patients.
 
-For this task, dbinom() function has been used as it specifies probability density.
+For this task, dbinom() function has been used as it specifies probability density and the 5 patients are choosed using random sampling.
 
 ![Binomial](Results/binomial.png)
  
