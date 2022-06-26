@@ -152,6 +152,20 @@ Bootstrapping confidence interval types:
  - <b>Percentile bootstrap</b> = Using quantiles eg 2.5%, 5% etc. to calculate the CI. 
  - <b>Bias Corrected Accelerated (BCa)</b> = Using percentile limits with bias correction and estimate acceleration coefficient corrects the limit and find the CI. 
  
+ ## Scenario 10
+
+Implemented binomial distribution.
+
+It is used when there are 2 mutually exclusive outcomes.
+
+In this case, suppose there are 30 patients out of which may be 5 (we don't know which 5) are COVID19 positive and remaining are COVID19 negative patients.
+
+We need to find probability of COVID19 negative patients.
+
+For this task, dbinom() function has been used as it specifies probability density.
+
+![Binomial](Results/binomial.png)
+ 
  ## Authors
 
 - [@Onnamission](https://www.github.com/Onnamission)
