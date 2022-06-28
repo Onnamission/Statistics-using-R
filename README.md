@@ -141,7 +141,7 @@ Bootstrap samples (or replication) is the new number line where we add the data 
 
 ![Bootstrapping](Results/boot.png)
 
-The dashed line in the above grpah is the mean from the original data points.
+The dashed line in the above graph is the original r-squared value.
 
 The histogram showed what will be the result if we test regression multiple times on a random sample from the population measured by r-squared having same dependent and independent variable as testing regression multiple test is like doing hit and trial method which is very time consuming.
 
