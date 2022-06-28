@@ -141,6 +141,8 @@ Bootstrap samples (or replication) is the new number line where we add the data 
 
 ![Bootstrapping](Results/boot.png)
 
+The dashed line in the above grpah is the mean from the original data points.
+
 The histogram showed what will be the result if we test regression multiple times on a random sample from the population measured by r-squared having same dependent and independent variable as testing regression multiple test is like doing hit and trial method which is very time consuming.
 
 The 95% confidence interval is between 0.2520 to 0.4219 as per BCA type interval. This does not cover 0 and therefore is we can reject NULL hypothesis.
@@ -160,7 +162,7 @@ It is used when there are 2 mutually exclusive outcomes.
 
 In this case, suppose there are 30 patients out of which may be 5 (we don't know which 5) are COVID19 positive and remaining are COVID19 negative patients.
 
-We need to find probability of COVID19 negative patients.
+We need to find probability of COVID19 positive patients.
 
 For this task, dbinom() function has been used as it specifies probability density and the 5 patients are choosed using random sampling.
 
